@@ -21,3 +21,16 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone -b master https://github.com/glebvisage5/command_line_tool.git
+2. Перейдите в папку проекта:
+   ```bash
+   cd имя_репозитория
+3. Установите зависимости, если у вас не удалось скачать папку node_modules:
+   ```bash
+   npm install fs csv-parser axios child_process
+
+## Использование
+
+**Запуск инструмента**
+Для запуска используйте следующую команду:
+```bash
+   npm start
