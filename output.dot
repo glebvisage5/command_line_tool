@@ -1,0 +1,8 @@
+digraph axios {
+  "axios" -> "form-data";
+  "form-data" -> "asynckit";
+  "form-data" -> "combined-stream";
+  "form-data" -> "mime-types";
+  "axios" -> "proxy-from-env";
+  "axios" -> "follow-redirects";
+}

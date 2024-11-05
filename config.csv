@@ -1,0 +1,2 @@
+visualizerPath,packageName,outputFilePath,maxDepth,repositoryUrl
+dot,axios,output.dot,2,https://registry.npmjs.org
